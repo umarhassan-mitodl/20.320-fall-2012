@@ -38,7 +38,7 @@ All of these courses are required for undergraduate students majoring in Biologi
 
 ### Requirements Satisfied
 
-Required for undergraduates majoring in [Biological Engineering](http://web.mit.edu/be/programs/ugrad_requirements.shtml)
+Required for undergraduates majoring in {{% resource_link "918342a1-6265-47ee-9624-f8d8c8be424c" "Biological Engineering" %}}
 
 ### Offered
 
