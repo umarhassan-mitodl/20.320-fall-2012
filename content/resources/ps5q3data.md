@@ -4,8 +4,6 @@ description: This is special file related to assignments.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/ff496192596e7f74bf757cb20c244cea_PS5Q3data.mat
 file_size: 781
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

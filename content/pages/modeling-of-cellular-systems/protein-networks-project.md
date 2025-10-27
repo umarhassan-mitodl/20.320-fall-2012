@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains information about the protein networks design project
   that accompanies the Modeling of Cellular Systems section of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Modeling of Cellular Systems

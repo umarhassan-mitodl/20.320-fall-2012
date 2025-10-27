@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides several past exams, solutions where available,
   and an equations sheet for reference. The final exams are not available.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

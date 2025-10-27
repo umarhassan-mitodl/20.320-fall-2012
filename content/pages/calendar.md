@@ -2,8 +2,6 @@
 content_type: page
 description: This calendar section provides the schedule of course topics, instructors,
   exams, and project due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

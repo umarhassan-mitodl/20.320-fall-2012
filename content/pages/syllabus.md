@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, grading, and software used in the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -108,11 +106,11 @@ Problem Sets
 
 Problem sets are not turned in or graded, although problems sets and answer keys from previous years are provided for your reference. Optional study problems are posted for each section. We strongly encourage the completion of study problems, as they provide a direct metric of your understanding of the material in the course and also serve as practice problems for the exams.
 
-We adhere to the [Institute guidelines (PDF)](http://web.mit.edu/faculty/governance/rules/Rules%20&%20Regulations%2020160316.pdf) to determine final grades, and use the full range of grades, from "A" to "F".
+We adhere to the {{% resource_link "232253b8-cb30-4345-bf72-3e18c57901f7" "Institute guidelines (PDF)" %}} to determine final grades, and use the full range of grades, from "A" to "F".
 
 If you have questions about problems that you got wrong on the exams or design projects, or if you think you have been graded incorrectly, you are welcome to discuss your questions with any member of the staff. However, if you have concerns about your overall grade for the course, you must speak to either Professor Fraenkel or Professor White. The teaching assistants are not authorized to discuss projected or final course grades.
 
 Software
 --------
 
-MATLAB{{< sup "®" >}} is used in the {{% resource_link cebb4d77-9ee1-4d41-5e78-cb06b0277b90 "Modeling of Cellular Systems" %}} and {{% resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" %}} sections of the course; Python, [PyMOL](http://www.pymol.org/) and [PyRosetta](http://www.pyrosetta.org/) are used in the {{% resource_link 52f93d5d-eeab-ca0a-0c75-5793cc45656c "Modeling and Manipulating Biomolecular Interactions" %}} and {{% resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" %}} sections. If you are a student or teacher, you may be able to [register for an educational-use-only PyMOL license](http://pymol.org/edu/).
+MATLAB{{< sup "®" >}} is used in the {{% resource_link cebb4d77-9ee1-4d41-5e78-cb06b0277b90 "Modeling of Cellular Systems" %}} and {{% resource_link 8b291e74-c7e1-69dc-99c5-0efdfc0b9af0 "Protein Networks Project" %}} sections of the course; Python, {{% resource_link "b07e4f04-6676-4972-9196-551d351d9cab" "PyMOL" %}} and {{% resource_link "cef36ce6-62e8-43a5-98ec-f88b105f1b4d" "PyRosetta" %}} are used in the {{% resource_link 52f93d5d-eeab-ca0a-0c75-5793cc45656c "Modeling and Manipulating Biomolecular Interactions" %}} and {{% resource_link 4e768918-89cb-0ab8-82ea-1711a42e3666 "Protein Design Project" %}} sections. If you are a student or teacher, you may be able to {{% resource_link "f3401a03-90c7-46d9-97b1-12d10f2c6b1a" "register for an educational-use-only PyMOL license" %}}.

@@ -27,7 +27,6 @@
     "website": "20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012"
   },
   "course_title": "Analysis of Biomolecular and Cellular Systems",
-  "hide_download": true,
   "course_description": "This course focuses on computational and experimental analysis of biological systems across a hierarchy of scales, including genetic, molecular, cellular, and cell population levels. The two central themes of the course are modeling of complex dynamic systems and protein design and engineering. Topics include gene sequence analysis, molecular modeling, metabolic and gene regulation networks, signal transduction pathways and cell populations in tissues. Emphasis is placed on experimental methods, quantitative analysis, and computational modeling.\n",
   "department_numbers": [
     "20"
@@ -38,7 +37,6 @@
     "content": "f12bedba-3a46-ceae-6ddb-18a3d84e1f92",
     "website": "20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

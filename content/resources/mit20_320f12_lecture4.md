@@ -4,8 +4,6 @@ description: This resource contains information related to lecture 4.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/fa099bb81ad06cb2bf34503418179612_MIT20_320F12_Lecture4.pdf
 file_size: 825144
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

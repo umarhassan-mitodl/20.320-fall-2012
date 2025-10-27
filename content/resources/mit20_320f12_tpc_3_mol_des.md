@@ -4,8 +4,6 @@ description: This file contains information regarding molecular design part 1.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/f2b12b592a121e9a5508422f36b00f14_MIT20_320F12_Tpc_3_Mol_Des.pdf
 file_size: 1110665
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

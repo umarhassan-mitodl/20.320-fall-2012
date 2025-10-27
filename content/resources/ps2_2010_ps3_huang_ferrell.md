@@ -4,8 +4,6 @@ description: This is special file related to assignments.
 file: /courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/191bd4856b21bbb30d1f696822ad0699_PS2_2010_ps3_huang_ferrell.m
 file_size: 3172
 file_type: text/x-objcsrc
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
